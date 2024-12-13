@@ -34,7 +34,7 @@ soundFolder = os.path.join(gameFolder,"sounds")
 
 # Настройки игрока
 
-PLAYER_HEALTH = 100000
+PLAYER_HEALTH = 20
 PLAYER_POSX = 100
 PLAYER_ACC = 0.5
 PLAYER_FRC = -0.12
